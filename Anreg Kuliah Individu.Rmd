@@ -1,6 +1,6 @@
 ---
 title: "Analisis Regresi Individu"
-author: "Muhammad Rizqa Salas"
+author: "Muhammad Rizqa Salas_g1401221060"
 date: "2024-03-05"
 output: html_document
 ---
